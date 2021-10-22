@@ -48,3 +48,10 @@ verbose
 vi
 while
 xtrace
+compgen
+pgrep
+pkill
+TIMEFORMAT
+psql
+PGDATA
+PGPASSWORD
